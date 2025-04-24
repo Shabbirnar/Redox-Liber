@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Free Website</title>
+  <style>
+    body { text-align: center; font-family: sans-serif; background-color: #eef; }
+  </style>
+</head>
+<body>
+  <h1>Hello World!</h1>
+  <p>This is my free website.</p>
+</body>
+</html>
